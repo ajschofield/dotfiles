@@ -1,3 +1,4 @@
-[submodule "external/dotfile"]
-	path = external/dotfile
+[submodule "external/adrienbarlier-dotfile"]
+	path = external/adrienbarlier-dotfile
 	url = https://github.com/adrienbarlier/dotfile
+	branch = master

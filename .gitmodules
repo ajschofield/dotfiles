@@ -1,0 +1,3 @@
+[submodule "external/dotfile"]
+	path = external/dotfile
+	url = https://github.com/adrienbarlier/dotfile

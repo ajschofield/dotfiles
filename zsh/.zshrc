@@ -23,3 +23,9 @@ SAVEHIST=10000
 setopt append_history
 setopt share_history
 setopt extended_history
+
+# Path
+export PATH=$PATH:~/.local/bin
+
+# oh-my-posh
+eval "$(oh-my-posh init zsh --config ~/.omp_themes/tiwahu.omp.json)"

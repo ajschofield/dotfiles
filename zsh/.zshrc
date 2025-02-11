@@ -28,4 +28,4 @@ setopt extended_history
 export PATH=$PATH:~/.local/bin
 
 # oh-my-posh
-eval "$(oh-my-posh init zsh --config ~/.omp_themes/tokyo.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.omp_themes/cloud-context.omp.json)"
